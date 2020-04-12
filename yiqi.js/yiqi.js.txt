@@ -1,0 +1,20 @@
+//JavaScript Document
+var Dianji=0;
+window.onload=function01
+        var buhao=document.getElementByld('buhao');
+        var hao=document.getElementByld('hao');
+        buhao.onclick=function01
+                Dianji++;
+                if(Dianji==1){
+                                alert('小姐姐再考虑一下呗');
+         }else if(Dianji==2){
+                                alert('你是我见过最善良可爱的女孩');
+         }else if(Dianji==3){
+                                alert('爱你');
+                                Dianji=1;
+         ]
+
+        ]
+        hao.onclick=function01
+                  alert('小姐姐终于同意了');
+        ]

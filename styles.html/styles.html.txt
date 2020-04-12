@@ -1,0 +1,8 @@
+<html>
+<body>
+<p>By default color</p>
+<p style="color:red;">Redberry</p>
+<p style="color:blue;">Blueberry</p>
+<p style="font-size:50px;"></p>
+</body>
+</html>

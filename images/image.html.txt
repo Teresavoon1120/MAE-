@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Inserting Images</title>
+</head>
+<body>
+<img src="WeChat 圖片_20200412173028">
+<br>
+<img src="WeChat 圖片_20200412173028" alt="MAE" width="104" height="142">
+<br>
+</body>
+</html>
